@@ -1,7 +1,6 @@
 body  {
   font-family: Helvetica;
   text-align: center;
-  display: block;
 }
 .top  {
   color: white;
@@ -15,10 +14,6 @@ h1  {
 }
 .line  {
   text-decoration: underline;
-  color: white;
-}
-.list  {
-  font-size: 18px;
   color: white;
 }
 div  {
@@ -37,4 +32,17 @@ h2  {
   font-weight: bold;
   color: white;
   background-image: url("../the-flatiron-building.png")
+}
+h3  {
+  font-size: 23px;
+}
+footer  {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+.nav  {
+  color: white;
+  font-size: 18px;
 }
